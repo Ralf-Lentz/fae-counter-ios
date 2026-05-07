@@ -1,0 +1,19 @@
+{
+  "name": "FAE Counter",
+  "short_name": "FAE Counter",
+  "description": "FAE Counter als iPhone-Web-App",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#15050b",
+  "theme_color": "#15050b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
